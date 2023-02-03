@@ -1,3 +1,4 @@
 <Text>Hello im boy
     
-</Text>
+</Text> 
+<Text>hello i am graphicdesigner gi
